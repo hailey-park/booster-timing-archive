@@ -1,0 +1,4 @@
+"","total_severe","total_severe_lb","total_severe_ub","intervention","sensitivity_analysis","absolute_risk","absolute_risk_lb","absolute_risk_ub"
+"1",1112,1129,1094,"1 Booster","Low Incidence",0.000556,0.0005645,0.000547
+"2",880,998,808,"Annual Booster","Low Incidence",0.00044,0.000499,0.000404
+"3",759,879,596,"Biannual Booster","Low Incidence",0.0003795,0.0004395,0.000298

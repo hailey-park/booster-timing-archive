@@ -1,0 +1,4 @@
+"","total_severe","total_severe_lb","total_severe_ub","intervention","sensitivity_analysis","absolute_risk","absolute_risk_lb","absolute_risk_ub"
+"1",30829,30332,30842,"1 Booster","Pessimistic VE",0.0154145,0.015166,0.015421
+"2",26773,27118,26157,"Annual Booster","Pessimistic VE",0.0133865,0.013559,0.0130785
+"3",23516,24254,22715,"Biannual Booster","Pessimistic VE",0.011758,0.012127,0.0113575

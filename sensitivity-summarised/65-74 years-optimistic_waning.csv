@@ -1,0 +1,4 @@
+"","total_severe","total_severe_lb","total_severe_ub","intervention","sensitivity_analysis","absolute_risk","absolute_risk_lb","absolute_risk_ub"
+"1",10349,10490,10092,"1 Booster","Optimistic Waning",0.0051745,0.005245,0.005046
+"2",9070,9523,8511,"Annual Booster","Optimistic Waning",0.004535,0.0047615,0.0042555
+"3",7590,8394,6885,"Biannual Booster","Optimistic Waning",0.003795,0.004197,0.0034425
