@@ -1,0 +1,376 @@
+"","prior_inf","num_doses","age_group","study","months","ve_pred"
+"1",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.895777220316173
+"2",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.90394885003212
+"3",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.905708389203196
+"4",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.967543691612474
+"5",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",-0.693147180559945,0.813130335413703
+"6",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.970088441761089
+"7",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",-0.693147180559945,0.827781927980846
+"8",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.970636384793597
+"9",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",-0.693147180559945,0.83093675167412
+"10",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.979027263286801
+"11",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",-0.693147180559945,0.879247872917103
+"12",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.980671639296251
+"13",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",-0.693147180559945,0.888715492883946
+"14",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",-0.693147180559945,0.981025711140079
+"15",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",-0.693147180559945,0.890754088460053
+"1.1",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",0,0.881138379271152
+"2.1",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",0,0.890457773313223
+"3.1",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",0,0.892464452450399
+"4.1",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",0,0.964440346085388
+"5.1",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0,0.758955812173867
+"6.1",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",0,0.967228415310743
+"7.1",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0,0.777854980417814
+"8.1",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",0,0.967828750517331
+"9.1",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0,0.781924404508468
+"10.1",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",0,0.977021932061433
+"11.1",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0,0.844241180261051
+"12.1",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",0,0.978823536886707
+"13.1",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0,0.856453514299357
+"14.1",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",0,0.979211463698257
+"15.1",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0,0.859083109723722
+"1.2",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.864443407428321
+"2.2",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.875071777573617
+"3.2",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.877360309267466
+"4.2",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.961040270771737
+"5.2",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0.693147180559945,0.689075802574
+"6.2",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.964094924294247
+"7.2",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0.693147180559945,0.713453941583545
+"8.2",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.964752661210107
+"9.2",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0.693147180559945,0.718703113657692
+"10.2",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.974824858891348
+"11.2",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0.693147180559945,0.799085858671332
+"12.2",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.976798726138132
+"13.2",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0.693147180559945,0.814838614188082
+"14.2",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",0.693147180559945,0.977223744997276
+"15.2",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",0.693147180559945,0.818230543502991
+"1.3",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.853610571339426
+"2.3",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.865088294433861
+"3.3",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.867559711284775
+"4.3",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.958902575223292
+"5.3",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.09861228866811,0.639149988861761
+"6.3",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.962124835640573
+"7.3",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.09861228866811,0.667442581737931
+"8.3",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.962818662162418
+"9.3",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.09861228866811,0.673534625448596
+"10.3",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.973443514920394
+"11.3",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.09861228866811,0.766824612762618
+"12.3",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.975525687006823
+"13.3",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.09861228866811,0.785106824474461
+"14.3",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.09861228866811,0.975974026380282
+"15.3",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.09861228866811,0.789043403683149
+"1.4",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.845403506388632
+"2.4",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.857524707770982
+"3.4",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.860134680245765
+"4.4",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.957315093527504
+"5.4",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.38629436111989,0.598937201444851
+"6.4",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.960661821097151
+"7.4",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.38629436111989,0.630382694383886
+"8.4",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.961382448249679
+"9.4",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.38629436111989,0.637153629742354
+"10.4",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.972417710160184
+"11.4",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.38629436111989,0.740839765905456
+"12.4",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.974580310888861
+"13.4",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.38629436111989,0.761159330174835
+"14.4",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.38629436111989,0.975045968392415
+"15.4",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.38629436111989,0.765534598085151
+"1.5",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.838722058390002
+"2.5",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.851367121438456
+"3.5",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.854089893336827
+"4.5",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.956041639257276
+"5.5",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.6094379124341,0.564684570730409
+"6.5",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.959488212530406
+"7.5",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.6094379124341,0.598815655205619
+"8.5",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.960230338751351
+"9.5",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.6094379124341,0.606164859975413
+"10.5",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.97159482479667
+"11.5",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.6094379124341,0.718706275025004
+"12.5",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.97382194418921
+"13.5",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.6094379124341,0.740761224709597
+"14.5",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.6094379124341,0.974301494039858
+"15.5",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.6094379124341,0.745510160874731
+"1.6",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.833049120346328
+"2.6",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.846138972424925
+"3.6",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.848957517596023
+"4.6",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.954972999874403
+"5.6",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.79175946922805,0.534537625170832
+"6.6",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.958503360255909
+"7.6",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.79175946922805,0.571032393256544
+"8.6",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.959263527761683
+"9.6",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.79175946922805,0.578890553283157
+"10.6",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.970904287470282
+"11.6",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.79175946922805,0.699225810876741
+"12.6",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.973185548724643
+"13.6",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.79175946922805,0.722808134329308
+"14.6",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.79175946922805,0.973676756559069
+"15.6",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.79175946922805,0.727885949073997
+"1.7",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.82809731988846
+"2.7",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.84157541990951
+"3.7",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.844477563761236
+"4.7",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.954049235415861
+"5.7",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.94591014905531,0.507425629814784
+"6.7",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.957652023927982
+"7.7",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.94591014905531,0.546046124997607
+"8.7",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.958427786870325
+"9.7",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.94591014905531,0.554362002789757
+"10.7",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.970307365955281
+"11.7",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.94591014905531,0.681706482012143
+"12.7",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.97263542908544
+"13.7",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.94591014905531,0.706662415617766
+"14.7",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",1.94591014905531,0.973136714436422
+"15.7",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",1.94591014905531,0.712036000111465
+"1.8",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.823689313935123
+"2.8",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.837513025467837
+"3.8",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.840489587399418
+"4.8",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.953233729374999
+"5.8",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.07944154167984,0.482666933881301
+"6.8",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.956900457972169
+"7.8",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.07944154167984,0.523228644756432
+"8.8",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.957689988680326
+"9.8",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.07944154167984,0.531962510779676
+"10.8",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.969780399262741
+"11.8",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.07944154167984,0.66570781682277
+"12.8",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.972149779432199
+"13.8",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.07944154167984,0.691918132323345
+"14.8",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.07944154167984,0.972659961288726
+"15.8",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.07944154167984,0.69756181398938
+"1.9",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.819707448946401
+"2.9",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.833843360233962
+"3.9",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.83688714592836
+"4.9",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.952502397033084
+"5.9",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.19722457733622,0.459797260772823
+"6.9",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.956226466041972
+"7.9",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.19722457733622,0.502152077732191
+"8.9",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.95702834345501
+"9.9",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.19722457733622,0.511272040593249
+"10.9",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.96930782424054
+"11.9",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.19722457733622,0.650929807349413
+"12.9",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.971714256848113
+"13.9",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.19722457733622,0.678298798733719
+"14.9",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.19722457733622,0.972232416943805
+"15.9",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.19722457733622,0.684191969874298
+"1.10",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.816069408379525
+"2.10",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.830490561727356
+"3.10",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.83359576657506
+"4.10",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.951838512377899
+"5.10",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.30258509299405,0.438484280855463
+"6.10",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.95561463353501
+"7.10",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.30258509299405,0.482510150732019
+"8.10",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.956427718968592
+"9.10",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.30258509299405,0.491989929586574
+"10.10",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.96887883281259
+"11.10",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.30258509299405,0.637157707607093
+"12.10",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.971318900668726
+"13.10",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.30258509299405,0.66560650611079
+"14.10",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.30258509299405,0.971844303204352
+"15.10",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.30258509299405,0.671732184473285
+"1.11",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.812715200303862
+"2.11",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.827399341709272
+"3.11",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.830561173913443
+"4.11",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.951229965436731
+"5.11",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.39789527279837,0.418480860090041
+"6.11",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.955053799965938
+"7.11",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.39789527279837,0.464075106362268
+"8.11",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.955877159182121
+"9.11",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.39789527279837,0.473892592601898
+"10.11",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.968485599712191
+"11.11",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.39789527279837,0.624231823613528
+"12.11",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.970956499170576
+"13.11",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.39789527279837,0.653694081344345
+"14.11",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.39789527279837,0.971488540456824
+"15.11",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.39789527279837,0.66003798070686
+"1.12",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.484906649788,0.809599665275272
+"2.12",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.484906649788,0.82452808148028
+"3.12",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.484906649788,0.827742511647566
+"4.12",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.484906649788,0.950667693868264
+"5.12",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.484906649788,0.399597573245994
+"6.12",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.484906649788,0.954535613530024
+"7.12",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.484906649788,0.446672371355139
+"8.12",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.484906649788,0.955368465285673
+"9.12",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.484906649788,0.456808654339411
+"10.12",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.484906649788,0.968122269002304
+"11.12",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.484906649788,0.612029751876614
+"12.12",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.484906649788,0.970621655553766
+"13.12",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.484906649788,0.642448718038198
+"14.12",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.484906649788,0.971159830764076
+"15.12",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.484906649788,0.648998618653553
+"1.13",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.806687903361318
+"2.13",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.821844617451432
+"3.13",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.825108205385955
+"4.13",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.950144731442628
+"5.13",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.56494935746154,0.381685611693819
+"6.13",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.954053654187501
+"7.13",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.56494935746154,0.430164804482656
+"8.13",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.954895334846732
+"9.13",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.56494935746154,0.440603485830102
+"10.13",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.967784339218891
+"11.13",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.56494935746154,0.600455334688888
+"12.13",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.97031022129339
+"13.13",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.56494935746154,0.631781797769312
+"14.13",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.56494935746154,0.970854101597085
+"15.13",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.56494935746154,0.638527103271065
+"1.14",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.803952348731485
+"2.14",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.819323545102446
+"3.14",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.822633315987955
+"4.14",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.949655602657762
+"5.14",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.63905732961526,0.364625664266479
+"6.14",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.95360287574529
+"7.14",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.63905732961526,0.414442449218686
+"8.14",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.954452814112282
+"9.14",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.63905732961526,0.425169144816433
+"10.14",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.967468272181896
+"11.14",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.63905732961526,0.589431475121663
+"12.14",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.970018935621846
+"13.14",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.63905732961526,0.621622268425261
+"14.14",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.63905732961526,0.970568151921511
+"15.14",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.63905732961526,0.628553684034457
+"1.15",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.801370824467388
+"2.15",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.816944426305301
+"3.15",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.820297779726966
+"4.15",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.949195922202462
+"5.15",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.70805020110221,0.348320409974437
+"6.15",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.953179236724307
+"7.15",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.70805020110221,0.399415615065727
+"8.15",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.954036935638176
+"9.15",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.70805020110221,0.410417583820726
+"10.15",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.967171234174797
+"11.15",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.70805020110221,0.578895285940019
+"12.15",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.969745187001319
+"13.15",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.70805020110221,0.61191217347053
+"14.15",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.70805020110221,0.970299418039704
+"15.15",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.70805020110221,0.619021466100807
+"1.16",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.79892520655215
+"2.16",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.814690558064085
+"3.16",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.818085199585457
+"4.16",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.948762121112292
+"5.16",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.77258872223978,0.332689288899548
+"6.16",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.952779447986235
+"7.16",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.77258872223978,0.385010058438999
+"8.16",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.953644470539071
+"9.16",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.77258872223978,0.396275919309547
+"10.16",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.966890918991031
+"11.16",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.77258872223978,0.568794710639786
+"12.16",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.969486850044313
+"13.16",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.77258872223978,0.602603537912471
+"14.16",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.77258872223978,0.970045813498659
+"15.16",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.77258872223978,0.609883353320447
+"1.17",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.79660048060741
+"2.17",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.81254810320892
+"3.17",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.815981991873518
+"4.17",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.948351254244131
+"5.17",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.83321334405622,0.317664762035602
+"6.17",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.952400795303106
+"7.17",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.83321334405622,0.371163535755732
+"8.17",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.953272754308326
+"9.17",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.83321334405622,0.38268304792616
+"10.17",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.966625423527184
+"11.17",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.83321334405622,0.559086106617554
+"12.17",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.969242170861018
+"13.17",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.83321334405622,0.593656140963867
+"14.17",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.83321334405622,0.969805616537674
+"15.17",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.83321334405622,0.601099861701613
+"1.18",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.794384059909173
+"2.18",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.810505461883059
+"3.18",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.813976769229542
+"4.18",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.947960861626323
+"5.18",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.89037175789616,0.303189574258938
+"6.18",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.952041011578346
+"7.18",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.89037175789616,0.357823281003676
+"8.18",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.952919561379793
+"9.18",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.89037175789616,0.369587170266896
+"10.18",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.966373158189724
+"11.18",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.89037175789616,0.549732476546958
+"12.18",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.969009684490634
+"13.18",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.89037175789616,0.585035886088874
+"14.18",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.89037175789616,0.969577389032234
+"15.18",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.89037175789616,0.592637519315145
+"1.19",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.792265282000105
+"2.19",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.808552807623502
+"3.19",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.812059885199268
+"4.19",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.947588866494311
+"5.19",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.94443897916644,0.289214711106646
+"6.19",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.951698182876975
+"7.19",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.94443897916644,0.344944122718958
+"8.19",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.952583012879432
+"9.19",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.94443897916644,0.356943942353652
+"10.19",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.966132781007294
+"11.19",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.94443897916644,0.540702148082103
+"12.19",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.968788154179616
+"13.19",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.94443897916644,0.576713584224845
+"14.19",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.94443897916644,0.969359916884601
+"15.19",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.94443897916644,0.584467671806199
+"1.20",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.790235030307698
+"2.20",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.806681738646341
+"3.20",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.810223091909157
+"4.20",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.947233498911632
+"5.20",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.99573227355399,0.2756978465582
+"6.20",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.951370678035124
+"7.20",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.99573227355399,0.332487053470019
+"8.20",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.952261507524294
+"9.20",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.99573227355399,0.344715071323138
+"10.20",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.96590314827584
+"11.20",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.99573227355399,0.531967770839388
+"12.20",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.968576525896497
+"13.20",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.99573227355399,0.568664029406204
+"14.20",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",2.99573227355399,0.969152165371869
+"15.20",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",2.99573227355399,0.576565574951548
+"1.21",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.788285445104634
+"2.21",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.804885011469395
+"3.21",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.808459278568732
+"4.21",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.946893237615204
+"5.21",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.04452243772342,0.262602145396032
+"6.21",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.951057095064965
+"7.21",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.04452243772342,0.320418126119609
+"8.21",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.951953669009247
+"9.21",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.04452243772342,0.33286723190799
+"10.21",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.96568327697999
+"11.21",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.04452243772342,0.523505542502464
+"12.21",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.968373893699626
+"13.21",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.04452243772342,0.560865285546963
+"14.21",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.04452243772342,0.968953245148128
+"15.21",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.04452243772342,0.568909694507373
+"1.22",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.786409699517783
+"2.22",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.80315633448332
+"3.22",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.806762268823207
+"4.22",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.946566765087183
+"5.22",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.09104245335832,0.249895326267813
+"6.22",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.95075621974918
+"7.22",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.09104245335832,0.308707590348045
+"8.22",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.951658305359942
+"9.22",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.09104245335832,0.321371218777864
+"10.22",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.965472315761218
+"11.22",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.09104245335832,0.515294603388365
+"12.22",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.968179472981591
+"13.22",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.09104245335832,0.553298128476138
+"14.22",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.09104245335832,0.968762385979009
+"15.22",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.09104245335832,0.561481158465909
+"1.23",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.784601823690294
+"2.23",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.801490205900334
+"3.23",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.8051266616708
+"4.23",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.946252932388452
+"5.23",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.13549421592915,0.237548919532819
+"6.23",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.950466993231695
+"7.23",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.13549421592915,0.297329208688442
+"8.23",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.951374377117251
+"9.23",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.13549421592915,0.310201275104066
+"10.23",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.96526952219382
+"11.23",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.13549421592915,0.507316556879952
+"12.23",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.967992579526881
+"13.23",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.13549421592915,0.545945603970891
+"14.23",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.13549421592915,0.968578916182989
+"15.23",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.13549421592915,0.554263323184868
+"1.24",1,"Unvaccinated","18-49 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.782856565125676
+"2.24",1,"Unvaccinated","50-64 years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.799881785048085
+"3.24",1,"Unvaccinated","65+ years","COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.803547705114335
+"4.24",1,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.945950731305954
+"5.24",0,"2-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.17805383034795,0.225537672761622
+"6.24",1,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.950188486348809
+"7.24",0,"2-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.17805383034795,0.28625970863844
+"8.24",1,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.951100972138611
+"9.24",0,"2-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.17805383034795,0.299334554707912
+"10.24",1,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.965074244786975
+"11.24",0,"3-dose","18-49 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.17805383034795,0.499555085269508
+"12.24",1,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.967812612925077
+"13.24",0,"3-dose","50-64 years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.17805383034795,0.53879267372006
+"14.24",1,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023)",3.17805383034795,0.968402246348434
+"15.24",0,"3-dose","65+ years","Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)",3.17805383034795,0.547241425836491
