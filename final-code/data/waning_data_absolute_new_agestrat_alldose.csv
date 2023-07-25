@@ -1,0 +1,19 @@
+﻿Outcome,Vaccine Status,Age,Prior Infection,Month0.5,Month1,Month2,Month3,Month4,Month5,Month6,Month7,Month8,Month9,Month10,Month11,Month12,References
+Severe Outcomes,Unvaccinated,18-49 years,Yes,,,,85.7,85.3,84.95,84.4,84.04,83.7,83.2,82.5,81.3,78.1,"COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,Unvaccinated,18-49 years,No,,,,,,,,,,,,,,
+Severe Outcomes,Unvaccinated,50-64 years,Yes,,,,85.7,85.3,84.95,84.4,84.04,83.7,83.2,82.5,81.3,78.1,"COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,Unvaccinated,50-64 years,No,,,,,,,,,,,,,,
+Severe Outcomes,Unvaccinated,65+ years,Yes,,,,85.7,85.3,84.95,84.4,84.04,83.7,83.2,82.5,81.3,78.1,"COVID Forecasting Team (Lancet, 2023), Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,Unvaccinated,65+ years,No,,,,,,,,,,,,,,
+Severe Outcomes,2-dose,18-49 years,Yes,95.7,96.05,96.05,96.42,96.42,96.42,96.42,96.42,96.42,,,,,"Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,2-dose,18-49 years,No,69.31,68.56,67.805,62.87,61.93,56.175,55.425,50.485,49.545,,,,,"Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)"
+Severe Outcomes,2-dose,50-64 years,Yes,95.7,96.05,96.05,96.42,96.42,96.42,96.42,96.42,96.42,,,,,"Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,2-dose,50-64 years,No,74.81,74.06,73.305,61.87,60.93,65.675,64.925,59.985,59.045,,,,,"Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)"
+Severe Outcomes,2-dose,65+ years,Yes,95.7,96.05,96.05,96.42,96.42,96.42,96.42,96.42,96.42,,,,,"Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,2-dose,65+ years,No,75.81,75.06,74.305,68.87,67.93,59.675,58.925,54.985,54.045,,,,,"Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)"
+Severe Outcomes,3-dose,18-49 years,Yes,98.35,98.35,98.1,97.6,97.3,95.8,95.3,,,,,,,"Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,3-dose,18-49 years,No,87.85,87.1,86.1,80.95,79.8,56.15,54.75,52.95,51.35,,,,,"Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)"
+Severe Outcomes,3-dose,50-64 years,Yes,98.35,98.35,98.1,97.6,97.3,95.8,95.3,,,,,,,"Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,3-dose,50-64 years,No,89.85,89.1,88.1,83.95,82.8,68.65,67.25,60.45,58.85,,,,,"Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)"
+Severe Outcomes,3-dose,65+ years,Yes,98.35,98.35,98.1,97.6,97.3,95.8,95.3,,,,,,,"Bobrovitz et al (Lancet, 2023)"
+Severe Outcomes,3-dose,65+ years,No,89.85,89.1,88.1,85.95,84.8,74.65,73.25,62.45,60.85,,,,,"Bobrovitz et al (Lancet, 2023); Ferdinands et al (BMJ, 2022)"
